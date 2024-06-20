@@ -70,6 +70,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-- **Author:** Your Name
+- **Author:** Yusuf Sherif
 - **Email:** <joeshirf@gmail.com>
 - **GitHub:** [StylishCS](https://github.com/StylishCS)
